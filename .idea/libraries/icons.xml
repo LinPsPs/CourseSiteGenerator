@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="icons">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/apps/CourseSite/images/icons/RemoveItem.zip!/" />
+      <root url="jar://$PROJECT_DIR$/apps/CourseSite/images/icons/AddItem.zip!/" />
+      <root url="jar://$PROJECT_DIR$/apps/CourseSite/images/icons/EditItem.zip!/" />
+      <root url="jar://$PROJECT_DIR$/apps/CourseSite/images/icons/MoveUp.zip!/" />
+      <root url="jar://$PROJECT_DIR$/apps/CourseSite/images/icons/MoveDown.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,35 @@
+
+{
+    "lectures":[
+        {
+            "section":"a",
+            "days":"b",
+            "time":"e",
+            "room":"f"
+        },
+        {
+            "section":"e",
+            "days":"e",
+            "time":"c",
+            "room":"z"
+        }
+    ],
+    "labs":[
+        {
+            "section":"asdfe",
+            "day_time":"sadfew",
+            "location":"asdfe",
+            "ta_1":"ewqf",
+            "ta_2":"asdfe"
+        }
+    ],
+    "recitations":[
+        {
+            "section":"eets",
+            "day_time":"ase",
+            "location":"asdfe",
+            "ta_1":"ewaw",
+            "ta_2":"cavs"
+        }
+    ]
+}

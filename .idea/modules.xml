@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/apps/CourseSite/CourseSite.iml" filepath="$PROJECT_DIR$/apps/CourseSite/CourseSite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/DesktopJavaFramework/DesktopJavaFramework.iml" filepath="$PROJECT_DIR$/libs/DesktopJavaFramework/DesktopJavaFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/PropertiesManager/PropertiesManager.iml" filepath="$PROJECT_DIR$/libs/PropertiesManager/PropertiesManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/jTPS/jTPS.iml" filepath="$PROJECT_DIR$/libs/jTPS/jTPS.iml" />
+    </modules>
+  </component>
+</project>

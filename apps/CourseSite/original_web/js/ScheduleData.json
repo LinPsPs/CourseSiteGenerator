@@ -1,0 +1,105 @@
+{
+    "startingMondayMonth":  "8",
+    "startingMondayDay":    "27",
+    "endingFridayMonth":    "12",
+    "endingFridayDay":      "21",
+    
+    "holidays": [
+        { "month": "9", "day": "3", "title": "LABOR DAY", "link": "https://www.stonybrook.edu/commcms/registrar/calendars/academic_calendars" },
+        { "month": "10", "day": "8", "title": "FALL BREAK?<br /><br /><br />", "link": "https://www.stonybrook.edu/commcms/registrar/calendars/academic_calendars" },
+        { "month": "10", "day": "9", "title": "FALL BREAK?", "link": "https://www.stonybrook.edu/commcms/registrar/calendars/academic_calendars" },
+        { "month": "11", "day": "21", "title": "TRAVEL DAY", "link": "https://www.stonybrook.edu/commcms/registrar/calendars/academic_calendars" },
+        { "month": "11", "day": "22", "title": "THANKSGIVING", "link": "https://www.stonybrook.edu/commcms/registrar/calendars/academic_calendars" },
+        { "month": "11", "day": "23", "title": "BLACK FRIDAY", "link": "https://www.stonybrook.edu/commcms/registrar/calendars/academic_calendars" },
+        { "month": "12", "day": "11", "title": "READING DAY", "link": "https://www.stonybrook.edu/commcms/registrar/calendars/academic_calendars" },
+        { "month": "12", "day": "12", "title": "", "link": "" },
+        { "month": "12", "day": "13", "title": "", "link": "" },
+        { "month": "12", "day": "14", "title": "", "link": "" },
+        { "month": "12", "day": "17", "title": "", "link": "" },
+        { "month": "12", "day": "18", "title": "", "link": "" },
+        { "month": "12", "day": "19", "title": "", "link": "" },
+        { "month": "12", "day": "20", "title": "", "link": "" },
+        { "month": "12", "day": "21", "title": "", "link": "" }
+    ],
+    
+    "lectures":[
+        { "month": "8",     "day": "28",     "title": "Lecture 1",      "topic": "Software<br />Development<br />Lifecycle<br /><br />",    "link": "https://blackboard.stonybrook.edu/bbcswebdav/pid-4583144-dt-content-rid-31807868_1/xid-31807868_1" },
+        { "month": "8",     "day": "30",     "title": "Lecture 2",      "topic": "Graphical<br />User<br />Interfaces<br /><br />",    "link": "https://blackboard.stonybrook.edu/bbcswebdav/pid-4588421-dt-content-rid-31820795_1/xid-31820795_1" },
+        { "month": "9",     "day": "4",     "title": "Lecture 3",      "topic": "Event<br />Programming<br /><br />",    "link": "https://blackboard.stonybrook.edu/bbcswebdav/pid-4591754-dt-content-rid-31835006_1/xid-31835006_1" },
+        { "month": "9",     "day": "6",     "title": "Lecture 4",      "topic": "Graphics<br />&amp; GUIs<br /><br />",    "link": "https://blackboard.stonybrook.edu/bbcswebdav/pid-4595769-dt-content-rid-31868074_1/xid-31868074_1" },
+        { "month": "9",     "day": "11",     "title": "Lecture 5",      "topic": "Threads<br /><br />",    "link": "https://blackboard.stonybrook.edu/bbcswebdav/pid-4598618-dt-content-rid-31897815_1/xid-31897815_1" },
+        { "month": "9",     "day": "13",     "title": "Lecture 6",      "topic": "Threads<br />(continued)<br /><br />",    "link": "none" },
+        { "month": "9",     "day": "18",     "title": "Lecture 7",      "topic": "Multithreading<br />Issues<br /><br /><br />",    "link": "https://blackboard.stonybrook.edu/bbcswebdav/pid-4598619-dt-content-rid-31897816_1/xid-31897816_1" },
+        { "month": "9",     "day": "20",     "title": "Lecture 8",      "topic": "Multithreading<br />(continued)<br /><br />",    "link": "none" },
+        { "month": "9",     "day": "25",     "title": "Lecture 9",      "topic": "Properties of<br />High Quality Software<br /><br />",    "link": "https://blackboard.stonybrook.edu/bbcswebdav/pid-4611824-dt-content-rid-32139187_1/xid-32139187_1" },
+        { "month": "9",     "day": "27",     "title": "Lecture 10",      "topic": "OOP++<br /><br />",    "link": "https://blackboard.stonybrook.edu/bbcswebdav/pid-4612756-dt-content-rid-32163006_1/xid-32163006_1" },
+        { "month": "10",     "day": "2",     "title": "Lecture 11",      "topic": "OOP++<br />(continued)<br /><br /><br />",    "link": "none" },
+        { "month": "10",     "day": "4",     "title": "Lecture 13",      "topic": "OOP++<br />(continued)<br /><br />",    "link": "none" },
+        { "month": "10",     "day": "11",     "title": "Lecture 13",      "topic": "Object-Oriented Design<br />using UML<br /><br />",    "link": "https://blackboard.stonybrook.edu/bbcswebdav/pid-4618222-dt-content-rid-32348762_1/xid-32348762_1" },
+        { "month": "10",     "day": "16",     "title": "Midterm Exam",      "topic": "(<a href='https://blackboard.stonybrook.edu/bbcswebdav/pid-4626381-dt-content-rid-32609249_1/xid-32609249_1'>Version 1 Solutions</a>)<br />(<a href='https://blackboard.stonybrook.edu/bbcswebdav/pid-4626381-dt-content-rid-32609250_1/xid-32609250_1'>Version 2 Solutions</a>)<br /><br />",    "link": "none" },
+        { "month": "10",     "day": "18",     "title": "Lecture 15",      "topic": "Object-Oriented Design<br />using UML<br />(continued)<br />",    "link": "none" },
+        { "month": "10",     "day": "23",     "title": "Lecture 16",      "topic": "Design Review<br /><br />",    "link": "https://blackboard.stonybrook.edu/bbcswebdav/pid-4626374-dt-content-rid-32609229_1/xid-32609229_1" },
+        { "month": "10",     "day": "25",     "title": "Lecture 17",      "topic": "Design Review<br />(continued)<br /><br />",    "link": "none" },
+        { "month": "10",     "day": "30",     "title": "Lecture 18",      "topic": "Designing<br />with Exceptions",    "link": "https://blackboard.stonybrook.edu/bbcswebdav/pid-4626375-dt-content-rid-32609231_1/xid-32609231_1" },
+        { "month": "11",     "day": "1",     "title": "Lecture 19",      "topic": "Test-Driven<br />Development<br /><br /><br />",    "link": "https://blackboard.stonybrook.edu/bbcswebdav/pid-4626392-dt-content-rid-32609832_1/xid-32609832_1" },
+        { "month": "11",     "day": "6",     "title": "Lecture 20",      "topic": "Test-Driven<br />Development<br />(continued)<br /><br />",    "link": "none" },
+        { "month": "11",     "day": "8",     "title": "Lecture 21",      "topic": "Creational<br />Design Patterns<br /><br />",    "link": "https://blackboard.stonybrook.edu/bbcswebdav/pid-4635794-dt-content-rid-32927240_1/xid-32927240_1" },
+        { "month": "11",     "day": "13",     "title": "Lecture 22",      "topic": "Creational<br />Design Patterns<br />(continued)<br /><br /><br />",    "link": "none" },
+        { "month": "11",     "day": "15",     "title": "Lecture 23",      "topic": "Behavioral<br />Design Patterns<br /><br /><br />",    "link": "https://blackboard.stonybrook.edu/bbcswebdav/pid-4640178-dt-content-rid-33042979_1/xid-33042979_1" },
+        { "month": "11",     "day": "20",     "title": "NO LECTURE",      "topic": "(Project Work Day)<br /><br />",    "link": "none" },
+        { "month": "11",     "day": "27",     "title": "Lecture 25",      "topic": "Structural<br />Design Patterns<br /><br /><br />",    "link": "https://blackboard.stonybrook.edu/bbcswebdav/pid-4640179-dt-content-rid-33042980_1/xid-33042980_1" },
+        { "month": "11",     "day": "29",     "title": "Lecture 26",      "topic": "Code Profiling<br /><br />",    "link": "https://blackboard.stonybrook.edu/bbcswebdav/pid-4640180-dt-content-rid-33042981_1/xid-33042981_1" },
+        { "month": "12",     "day": "4",     "title": "Guest Lecture",      "topic": "<br /><br />",    "link": "none" },
+        { "month": "12",     "day": "6",     "title": "No Lecture",      "topic": "Project Work Day<br /><br />",    "link": "none" },        
+        { "month": "12",    "day": "20",    "title": "<a href='https://www.stonybrook.edu/commcms/registrar/registration/_exams/fall18-finals.php'>FINAL EXAM</a>",  "topic": "(8:00am-10:45am)<br />(Cumulative)<br /><br />",   "link": "none" }
+    ],
+    
+    "references": [
+        { "month": "8", "day": "30", "title": "Reference", "topic": "JavaFX Examples", "link": "https://blackboard.stonybrook.edu/bbcswebdav/pid-4588427-dt-content-rid-31820796_1/xid-31820796_1" },
+        {
+            "month": "9", "day": "11", "title": "Reference", "topic": "Progress Example", "link": "https://blackboard.stonybrook.edu/bbcswebdav/pid-4598620-dt-content-rid-31897817_1/xid-31897817_1"
+        },
+        { "month": "10", "day": "26", "title": "Drop Deadline", "topic": "Last Day to Drop<br /> with a 'W'", "link": "https://www.stonybrook.edu/commcms/registrar/calendars/academic_calendars" },
+        { "month": "10", "day": "15", "title": "Midterm Review", "topic": "5pm, Old CS 2311<br /><br />", "link": "none" }
+    ],
+    
+    "recitations":[
+                { "month": "8",     "day": "27",     "title": "NO RECITATION",      "topic": "<br /><br />",    "link": "none" },
+        { "month": "8",     "day": "29",     "title": "NO RECITATION",      "topic": "<br /><br />",    "link": "none" },
+        { "month": "9",     "day": "5",     "title": "Recitation 1",      "topic": "Debugging<br /><br />",    "link": "none" },
+        { "month": "9",     "day": "10",     "title": "Recitation 1",      "topic": "Debugging<br /><br />",    "link": "none" },
+        { "month": "9",     "day": "12",     "title": "Recitation 2",      "topic": "Version Control<br /><br />",    "link": "none" },
+        { "month": "9",     "day": "17",     "title": "Recitation 2",      "topic": "Version Control<br /><br />",    "link": "none" },
+        { "month": "9",     "day": "19",     "title": "Recitation 3",      "topic": "Canvas<br /><br />",    "link": "none" },
+        { "month": "9",     "day": "24",     "title": "Recitation 3",      "topic": "Canvas<br /><br />",    "link": "none" },
+        { "month": "9",     "day": "26",     "title": "Recitation 4",      "topic": "Front-End<br />Web Technologies<br /><br /><br />",    "link": "none" },
+        { "month": "10",     "day": "1",     "title": "Recitation 4",      "topic": "Front-End<br />Web Technologies<br /><br /><br />",    "link": "none" },
+        { "month": "10",     "day": "3",     "title": "Recitation 5",      "topic": "Threads<br /><br /><br />",    "link": "none" },
+        { "month": "10",     "day": "10",     "title": "NO RECITATION",      "topic": "<br />",    "link": "none" },
+        { "month": "10",     "day": "15",     "title": "Recitation 5",      "topic": "Threads<br /><br />",    "link": "none" },
+        { "month": "10",     "day": "17",     "title": "Recitation 6",      "topic": "UML<br />Diagrams<br /><br />",    "link": "none" },
+        { "month": "10",     "day": "22",     "title": "Recitation 6",      "topic": "UML<br />Diagrams<br /><br />",    "link": "none" },
+        { "month": "10",     "day": "24",     "title": "NO RECITATION",      "topic": "<br /><br />",    "link": "none" },
+        { "month": "10",     "day": "29",     "title": "Recitation 7",      "topic": "Mock-Ups<br /><br />",    "link": "none" },
+        { "month": "10",     "day": "31",     "title": "Recitation 7",      "topic": "Mock-Ups<br /><br />",    "link": "none" },
+        { "month": "11",     "day": "5",     "title": "Recitation 8",      "topic": "Unit Testing<br /><br />",    "link": "none" },
+        { "month": "11",     "day": "7",     "title": "Recitation 8",      "topic": "Unit Testing<br /><br />",    "link": "none" },
+        { "month": "11",     "day": "12",     "title": "Recitation 9",      "topic": "Making Frameworks<br /><br />",    "link": "none" },
+        { "month": "11",     "day": "14",     "title": "Recitation 9",      "topic": "Making Frameworks<br /><br />",    "link": "none" },
+        { "month": "11",     "day": "19",     "title": "NO RECITATION",      "topic": "<br /><br />",    "link": "none" },
+        { "month": "11",     "day": "26",     "title": "Recitation 10",      "topic": "Code Profiling<br /><br />",    "link": "none" },
+        { "month": "11",     "day": "28",     "title": "Recitation 10",      "topic": "Code Profiling<br /><br />",    "link": "none" },
+        { "month": "12",     "day": "3",     "title": "Recitation 11",      "topic": "Exam Review<br /><br />",    "link": "none" },
+        { "month": "12",     "day": "5",     "title": "Recitation 11",      "topic": "Exam Review<br /><br />",    "link": "none" },
+        { "month": "12",     "day": "10",     "title": "NO RECITATION",      "topic": "<br /><br />",    "link": "none" }
+
+    ],
+    "hws": [
+        { "month": "9", "day": "21",    "title": "<a href='./hw/HW1.html'>HW 1</a><br />(<a href='https://blackboard.stonybrook.edu/bbcswebdav/pid-4611779-dt-content-rid-32136873_1/xid-32136873_1'>Solutions</a>)",    "topic": "due @ 11:59pm<br />(GUIs &amp; Events)",      "link": "./hw/HW1.html",     "time": "",  "criteria": "none"     },
+        { "month": "10", "day": "10",     "title": "<a href='./hw/HW2.html'>HW 2</a><br />(<a href='https://blackboard.stonybrook.edu/bbcswebdav/pid-4630510-dt-content-rid-32757913_1/xid-32757913_1'>Solutions</a>)",    "topic": "due @ 11:59pm<br />(GUIs &amp; Events)",      "link": "none",     "time": "",  "criteria": "none"     },
+        { "month": "10", "day": "26",    "title": "HW 3",    "topic": "due @ 11:59pm<br />(UML Design)",      "link": "./hw/HW3.html",     "time": "",  "criteria": "none"     },
+        { "month": "11", "day": "7",    "title": "HW 4",    "topic": "due @ 11:59pm<br />Implementation<br />Benchmark I",      "link": "./hw/HW4.html",     "time": "",  "criteria": "none"     },
+        { "month": "11", "day": "20",    "title": "HW 5",    "topic": "due @ 11:59pm<br />Implementation<br />Benchmark II",      "link": "./hw/HW5.html",     "time": "",  "criteria": "none"     },
+        { "month": "12", "day": "10",    "title": "Final Project",    "topic": "due @ 11:59pm<br />(JavaFX App)",      "link": "./hw/HW6.html",     "time": "",  "criteria": "none"     }
+    ]
+}

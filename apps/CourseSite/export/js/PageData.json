@@ -1,0 +1,66 @@
+
+{
+    "subject":"CSE",
+    "number":"220",
+    "semester":"Spring",
+    "year":"2018",
+    "title":"CS III",
+    "logos":{
+        "favicon":{
+            "href":"./images/Favicon.ico"
+        },
+        "navbar":{
+            "href":"http://www.stonybrook.edu",
+            "src":"./images/SBUDarkRedShieldLogo.png",
+            "alt":"Stony Brook University"
+        },
+        "bottom_left":{
+            "href":"http://www.cs.stonybrook.edu",
+            "src":"./images/SBUDarkRedShieldLogo.png",
+            "alt":"Stony Brook University"
+        },
+        "bottom_right":{
+            "href":"http://www.cs.stonybrook.edu",
+            "src":"./images/SBUDarkRedShieldLogo.png",
+            "alt":"Stony Brook University Computer Science Department"
+        }
+    },
+    "instructor":{
+        "name":"holin",
+        "link":"test",
+        "email":"asd@out.cm",
+        "room":"rew",
+        "hours":[
+            {
+                "day":"Tuesday",
+                "time":"1:00pm-2:20pm"
+            },
+            {
+                "day":"Wednesday",
+                "time":"2pm-3pm"
+            },
+            {
+                "day":"Thursday",
+                "time":"1:00pm-2:20pm"
+            }
+        ]
+    },
+    "pages":[
+        {
+            "name":"Home",
+            "link":"index.html"
+        },
+        {
+            "name":"Syllabus",
+            "link":"syllabus.html"
+        },
+        {
+            "name":"Schedule",
+            "link":"schedule.html"
+        },
+        {
+            "name":"HWs",
+            "link":"hws.html"
+        }
+    ]
+}
